@@ -21456,7 +21456,26 @@
 	"discord": "https://discord.com/invite/wXaGzqUuru",
 	"twitter": "https://twitter.com/s0lnumbers"
   }
-}],
+},
+{
+      "chainId": 101,
+      "address": "Fu35LwDtm2cnDjd4mZptfDXaXuXjNsgCMgEhpadh9HT6",
+      "symbol": "WTF",
+      "name": "skulls.wtf",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/2yRx3jMg/skulls-wtf-token-image-file.png",
+      "tags": [
+        "nft",
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://skulls.wtf",
+        "discord": "https://discord.gg/th5mqVtk6p",
+        "twitter": "https://twitter.com/skullswtf"
+      }
+    }
+],
   "version": {
     "major": 0,
     "minor": 3,
